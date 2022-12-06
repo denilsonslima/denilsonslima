@@ -25,13 +25,13 @@
     <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"></code>
     <code><img src="./imgs/css3.svg" height="30" style="vertical-align:down; margin:4px" alt="CSS3"></code>
     <code><img src="./imgs/javascrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="javascrypt"></code>
+    <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"></code>
 </p>
 
 ##### :books: Studying:
 
 <p>
     <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"></code>
-    <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"></code>
     <code><img src="./imgs/webpack.svg" height="30" style="vertical-align:down; margin:4px" alt="webpack"></code>
     <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"></code>
     <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"></code>
