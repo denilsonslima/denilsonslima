@@ -1,6 +1,6 @@
 ### Hello World, I'm Denilson 👋
 
-<img align= "right" style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=denilsonslima&show_icons=true&count_private=true&theme=dark" />
+<img align= "right" style="height: 150px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denilsonslima&show_icons=true&count_private=true&theme=dark" />
 
 #### I'm an ongoing FullStack developer, currently studying at Driven Education!
 - ✍ You can find my projects here on this GitHub page!
