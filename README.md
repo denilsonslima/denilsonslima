@@ -1,7 +1,5 @@
 ### Hello World, I'm Denilson 👋
 
-<img align= "right" style="height: 150px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denilsonslima&show_icons=true&count_private=true&theme=dark" />
-
 #### I'm an ongoing FullStack developer, currently studying at Driven Education!
 - ✍ You can find my projects here on this GitHub page!
 
@@ -32,11 +30,13 @@
     <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"></code>
     <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"></code>
     <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"></code>
-</p>
-
-##### :books: Studying:
-
-<p>   
     <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"></code>
     <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"></code>
 </p>
+
+<hr>
+
+<div align="center" >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=denilsonslima" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=denilsonslima" height="150" alt="languages graph"  />
+</div>
